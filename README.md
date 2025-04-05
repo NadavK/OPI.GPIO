@@ -1,6 +1,8 @@
 # OPI.GPIO
 A modified version of OrangePi.GPIO to bring suport for the Orange Pi Zero2, Orange Pi 3 and the Orange Pi Lite2
 
+Forked from https://github.com/eutim/OPI.GPIO to incude support for Python3
+
 ###### Installation 
 
 ```
